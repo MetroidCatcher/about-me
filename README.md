@@ -1,6 +1,6 @@
 # ✨ Welcome to my Profile!
 
-Gamer, cosplay enjoyer
+## Gamer, cosplay enjoyer
 
 Links to other sites:
 
