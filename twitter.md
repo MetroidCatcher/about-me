@@ -18,5 +18,5 @@ Elon Musk does weird and nonsensical changes to it.
 - Since the tookover, Bots, Cryptobros and NFTbros are more active than before (maybe just subjectively), which he claimed he wants to fight them on the platform, again, I don't see this
 - Like the reason above, he is likely to push his "Twitter Blue"-subscription thing to "fight" bots, well, it works horribly
 - The prices for the API access are just lunatic, like ????
-- Elon should pay those who are actually spending their life and time being on there, instead of paying him
+- Elon should pay those who are actually spending their life and time being on there, instead of paying him<br>
 (Oh, he's so broke, have some sympathy. 🥺 No, I don't, thanks. 🙄)
