@@ -14,4 +14,6 @@ Elon Musk does weird and nonsensical changes to it.
 - Elon Musk is a infantile person, also a bad loser
 - He apparently claims he is the "smartest" person in the building, if he is in the building, which I don't see that at all
 - Since the tookover, Bots, Cryptobros and NFTbros are more active than before (maybe just subjectively), which he claimed he wants to fight them on the platform, again, I don't see this
+- Like the reason above, he is likely to push his "Twitter Blue"-subscription thing to "fight" bots, well, it works horribly
 - The prices for the API access are just lunatic, like ????
+- Elon should pay those who are actually spending their life and time being on there, instead of paying him (Oh, he's so broke, have some sympathy. 🥺 No, I don't, thanks. 🙄)
