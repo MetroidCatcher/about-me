@@ -1,9 +1,8 @@
 # ✨ Welcome to my Profile!
 
 ## Gamer, cosplay enjoyer
-
-Links to other sites:
-
+If you contact me though these enlisted services, please keep it thorough and respectfully, otherwise I'll ignore these messages.<br><br>
+Links to other sites:<br><br>
 <a href="https://corteximplant.com/@Catchy" rel="me" target="_blank"><img src="https://raw.githubusercontent.com/MetroidCatcher/about-me/main/assets/mastodon_50px.png" alt="Mastodon" title="Mastodon" height="20"> Fediverse @Catchy@corteximplant.com<a><br>
 <a href="https://mas.to/@MetroidCatcher" rel="me" target="_blank"><img src="https://raw.githubusercontent.com/MetroidCatcher/about-me/main/assets/mastodon_50px.png" alt="Mastodon" title="Mastodon" height="20"> Fediverse @MetroidCatcher@mas.to<a><br>
 <a href="https://nerdculture.de/@MetroidCatcher" rel="me" target="_blank"><img src="https://raw.githubusercontent.com/MetroidCatcher/about-me/main/assets/mastodon_50px.png" alt="Mastodon" title="Mastodon" height="20"> Fediverse @MetroidCatcher@nerdculture.de<a><br>
