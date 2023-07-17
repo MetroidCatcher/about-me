@@ -20,3 +20,6 @@ Links to other sites:<br><br>
 <a href="https://www.gog.com/u/MetroidCatcher" rel="nofollow" target="_blank"><img src="https://raw.githubusercontent.com/MetroidCatcher/about-me/main/assets/gog_com_icon.png" alt="GOG.com" title="GOG.com" height="20"> GOG.com<a><br>
 <a href="https://www.backloggd.com/u/MetroidCatcher/" rel="nofollow" target="_blank"><img src="https://raw.githubusercontent.com/MetroidCatcher/about-me/main/assets/controller_50px.png" alt="Backloggd" title="Backloggd" height="20"> Backloggd<a><br>
 <a href="https://ggapp.io/MetroidCatcher" rel="nofollow" target="_blank"><img src="https://raw.githubusercontent.com/MetroidCatcher/about-me/main/assets/controller_50px.png" alt="GGapp.io" title="GGapp.io" height="20"> GGapp.io<a>
+# To-do
+- Make this list more visually pleasant to read/see (Possibly a chart)
+- Sort them into categories (Microblogging, blogging, image-focused...)
