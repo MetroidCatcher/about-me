@@ -20,3 +20,6 @@ Elon Musk does weird and nonsensical changes to it.
 - The prices for the API access are just lunatic, like ????
 - Elon should pay those who are actually spending their life and time being on there, instead of paying him<br>
 (Oh, he's so broke, have some sympathy. 🥺 No, I don't, thanks. 🙄)
+- Can we please all stop call Blue tick users "verified"? There is **nothing** about being *subscribed* a verification. They're **subscribers** of Twitter Blue. Elon is deceiving you believing being subscribed automatically means verified. No, it's not.
+- Also he is not consistent if you should "Get verified" or "Get subscribed". FYI.
+- Also also, he is being constantly inconsistent.
