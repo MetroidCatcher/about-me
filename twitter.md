@@ -23,3 +23,6 @@ Elon Musk does weird and nonsensical changes to it.
 - Can we please all stop call Blue tick users "verified"? There is **nothing** about being *subscribed* a verification. They're **subscribers** of Twitter Blue. Elon is deceiving you believing being subscribed automatically means verified. No, it's not.
 - Also he is not consistent if you should "Get verified" or "Get subscribed". FYI.
 - Also also, he is being constantly inconsistent.
+
+### To-do
+- Adding sources w/ archive link
