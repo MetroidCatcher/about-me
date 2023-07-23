@@ -7,7 +7,7 @@ Links to other sites:<br><br>
 *Type A = Decentralized<br>
 **Type B = Centralized
 
-| | Category | Type | Link | Notes/Availability |
+| Name | Category | Type | Link | Notes/Availability |
 | :-: | :-: | :-: | :-: | :-: |
 | Mastodon | Social Media | A | <a href="https://corteximplant.com/@Catchy" rel="me" target="_blank">corteximplant.com/@Catchy<a> | ✔️ |
 | Mastodon | Social Media | A | <a href="https://nightcity.bar/@Catchy" rel="me" target="_blank">nightcity.bar/@Catchy<a> | ✔️ |
