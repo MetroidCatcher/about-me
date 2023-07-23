@@ -13,7 +13,7 @@ Links to other sites:<br><br>
 | Mastodon | Social Media | A | <a href="https://nightcity.bar/@Catchy" rel="me" target="_blank">nightcity.bar/@Catchy<a> | ✔️ |
 | Mastodon | Social Media | A | <a href="https://mas.to/@MetroidCatcher" rel="me" target="_blank">mas.to/@MetroidCatcher<a> | ✔️ |
 | Mastodon | Social Media | A | <a href="https://nerdculture.de/@MetroidCatcher" rel="me" target="_blank">nerdculture.de/@MetroidCatcher<a> | ✔️ |
-| Twitter | Social Media | B | ~~twitter.com/MetroidCatcher~~ | <a href="https://gitdab.com/MetroidCatcher/about-me/src/branch/main/twitter.md">❌ Read this<a>
+| Twitter | Social Media | B | ~~twitter.com/MetroidCatcher~~ | ❌ Read `twitter.md`
 | Instagram | Photo, Video-focused | B | <a href="https://www.instagram.com/metroidcatcher/" rel="nofollow" target="_blank">www.instagram.com/metroidcatcher/<a> | ✔️ |
 | Pixfed | Photo-focused | A | <a href="https://cyberpunk.pics/MetroidCatcher" rel="nofollow" target="_blank">cyberpunk.pics/MetroidCatcher<a> | ✔️ |
 | Tumblr | Blog | B | <a href="https://metroidcatcher.tumblr.com/" rel="nofollow" target="_blank">metroidcatcher.tumblr.com/<a> | ✔️ |
