@@ -14,7 +14,7 @@ Links to other sites:<br><br>
 | Mastodon | A | <a href="https://nightcity.bar/@Catchy" rel="me" target="_blank">nightcity.bar/@Catchy<a> | ✔️ |
 | Mastodon | A | <a href="https://mas.to/@MetroidCatcher" rel="me" target="_blank">mas.to/@MetroidCatcher<a> | ✔️ |
 | Mastodon | A | <a href="https://nerdculture.de/@MetroidCatcher" rel="me" target="_blank">nerdculture.de/@MetroidCatcher<a> | ✔️ |
-| Twitter | B | ~~twitter.com/MetroidCatcher~~ | ❌ | Read `twitter.md` |
+| ~~Twitter~~ X | B | ~~twitter.com/MetroidCatcher~~ | ❌ | Read `twitter-x.md` |
 
 ### Photo/short video-sharing
 | Name | Type | Link | Avail. | Notes |
