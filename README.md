@@ -32,7 +32,7 @@ Links to other sites:<br><br>
 ### Streaming, Video
 | Name | Type | Link | Avail. | Notes |
 | :-: | :-: | :-: | :-: | :-: |
-| YouTube | B | <a href="https://www.youtube.com/@MetroidCatchy" rel="nofollow" target="_blank">www.youtube.com/@realMetroidCatcher<a> | ✔️ |
+| YouTube | B | <a href="https://www.youtube.com/@MetroidCatchy" rel="nofollow" target="_blank">www.youtube.com/@MetroidCatchy<a> | ✔️ |
 | Twitch | B | <a href="https://www.twitch.tv/metroidcatcher" rel="nofollow" target="_blank">www.twitch.tv/metroidcatcher<a> | ✔️ |
 | Odysee | B | <a href="https://odysee.com/@MetroidCatcher:a" rel="nofollow" target="_blank">odysee.com/@MetroidCatcher:a<a> | ✔️ |
 | BitChute | B | <a href="https://www.bitchute.com/channel/R5ZkOPi8S0yQ/" rel="nofollow" target="_blank">www.bitchute.com/channel/R5ZkOPi8S0yQ/<a> | ✔️ |
