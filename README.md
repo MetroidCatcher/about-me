@@ -32,10 +32,11 @@ Links to other sites:<br><br>
 ### Streaming, Video
 | Name | Type | Link | Avail. | Notes |
 | :-: | :-: | :-: | :-: | :-: |
-| YouTube | B | <a href="https://www.youtube.com/@MetroidCatchy" rel="nofollow" target="_blank">www.youtube.com/@MetroidCatchy<a> | ✔️ |
+| YouTube | B | <a href="https://www.youtube.com/@realMetroidCatcher" rel="nofollow" target="_blank">www.youtube.com/@realMetroidCatcher<a> | ✔️ |
 | Twitch | B | <a href="https://www.twitch.tv/metroidcatcher" rel="nofollow" target="_blank">www.twitch.tv/metroidcatcher<a> | ✔️ |
 | Odysee | B | <a href="https://odysee.com/@MetroidCatcher:a" rel="nofollow" target="_blank">odysee.com/@MetroidCatcher:a<a> | ✔️ |
 | BitChute | B | <a href="https://www.bitchute.com/channel/R5ZkOPi8S0yQ/" rel="nofollow" target="_blank">www.bitchute.com/channel/R5ZkOPi8S0yQ/<a> | ✔️ |
+| PeerTube/MakerTube.net | A | <a href="https://makertube.net/c/metroidcatcher/videos" rel="nofollow" target="_blank">makertube.net/c/metroidcatcher/videos<a> | ✔️ |
 | VStream | B | <a href="https://vstream.com/c/@metroidcatcher" rel="nofollow" target="_blank">vstream.com/c/@metroidcatcher<a> | ✔️ |
 
 ### Messenger
