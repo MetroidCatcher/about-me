@@ -20,7 +20,7 @@ Links to other sites:<br><br>
 | Name | Type | Link | Avail. | Notes |
 | :-: | :-: | :-: | :-: | :-: |
 | Instagram | B | <a href="https://www.instagram.com/metroidcatcher/" rel="nofollow" target="_blank">www.instagram.com/metroidcatcher/<a> | ✔️ |
-| Pixfed | A | <a href="https://cyberpunk.pics/MetroidCatcher" rel="nofollow" target="_blank">cyberpunk.pics/MetroidCatcher<a> | ✔️ |
+| Pixelfed/Voidedview | A | <a href="https://view.voided.ee/metroidcatcher" rel="nofollow" target="_blank">view.voided.ee/metroidcatcher<a> | ✔️ |
 | TikTok | B | <a href="https://www.tiktok.com/@metroidcatcher" rel="nofollow" target="_blank">www.tiktok.com/@metroidcatcher<a> | ✔️ |
 
 
