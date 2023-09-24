@@ -10,8 +10,8 @@ Links to other sites:<br><br>
 ### Social Media
 | Name | Type | Link | Avail. | Notes |
 | :-: | :-: | :-: | :-: | :-: |
-| Mastodon | A | <a href="https://corteximplant.com/@Catchy" rel="me" target="_blank">corteximplant.com/@Catchy<a> | ✔️ |
-| Mastodon | A | <a href="https://nightcity.bar/@Catchy" rel="me" target="_blank">nightcity.bar/@Catchy<a> | ✔️ |
+| Mastodon | A | <a href="https://corteximplant.com/@Catchy" rel="me" target="_blank">corteximplant.com/@Catchy<a> | ✔️ | Main instance |
+| Mastodon | A | <a href="https://nightcity.bar/@Catchy" rel="me" target="_blank">nightcity.bar/@Catchy<a> | ✔️ | Likely some sensitive topics |
 | Mastodon | A | <a href="https://mas.to/@MetroidCatcher" rel="me" target="_blank">mas.to/@MetroidCatcher<a> | ✔️ |
 | Mastodon | A | <a href="https://nerdculture.de/@MetroidCatcher" rel="me" target="_blank">nerdculture.de/@MetroidCatcher<a> | ✔️ |
 | ~~Twitter~~ X | B | ~~twitter.com/MetroidCatcher~~ | ❌ | Read `twitter-x.md` |
